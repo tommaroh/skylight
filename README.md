@@ -6,4 +6,4 @@ A simple application for sending HTTP requests and viewing the results in a brow
 
 * Install Docker and [Just](https://github.com/casey/just)
 * `just run`
-* Visit http://localhost:8080
+* Visit http://0.0.0.0:8080
